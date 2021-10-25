@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://est1102.github.io/super-fiesta/sitemap.xml

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Site sans nom (pour l&#x27;instant)</title>
+    <link href="https://est1102.github.io/super-fiesta/feed.xml" rel="self" />
+    <link href="https://est1102.github.io/super-fiesta" />
+    <updated>2021-10-25T16:59:50+02:00</updated>
+    <author>
+        <name>Estelle</name>
+    </author>
+    <id>https://est1102.github.io/super-fiesta</id>
+
+    <entry>
+        <title>Présentation</title>
+        <author>
+            <name>Estelle</name>
+        </author>
+        <link href="https://est1102.github.io/super-fiesta/presentation.html"/>
+        <id>https://est1102.github.io/super-fiesta/presentation.html</id>
+
+        <updated>2021-10-25T16:59:50+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Ceci est un projet réalisé dans le cadre du cours de gestion de contenu. Il a lieu au cinquième semestre, le mardi. Et ça s'annonce bien ! 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Ceci est un projet réalisé dans le cadre du cours de gestion de contenu.</p>
+<p>Il a lieu au cinquième semestre, le mardi. <strong>Et ça s'annonce bien !</strong></p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://est1102.github.io/super-fiesta/media/posts/1/20171023_174141.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://est1102.github.io/super-fiesta/media/posts/1/responsive/20171023_174141-xs.jpg 300w ,https://est1102.github.io/super-fiesta/media/posts/1/responsive/20171023_174141-sm.jpg 480w ,https://est1102.github.io/super-fiesta/media/posts/1/responsive/20171023_174141-md.jpg 768w ,https://est1102.github.io/super-fiesta/media/posts/1/responsive/20171023_174141-lg.jpg 1024w ,https://est1102.github.io/super-fiesta/media/posts/1/responsive/20171023_174141-xl.jpg 1360w ,https://est1102.github.io/super-fiesta/media/posts/1/responsive/20171023_174141-2xl.jpg 1600w"  alt="C'est parti !" width="660" height="880"></figure>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

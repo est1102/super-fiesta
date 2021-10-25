@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Site sans nom (pour l&#x27;instant)",
+    "description": "",
+    "home_page_url": "https://est1102.github.io/super-fiesta",
+    "feed_url": "https://est1102.github.io/super-fiesta/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Estelle"
+    },
+    "items": [
+        {
+            "id": "https://est1102.github.io/super-fiesta/presentation.html",
+            "url": "https://est1102.github.io/super-fiesta/presentation.html",
+            "title": "Présentation",
+            "summary": "Ceci est un projet réalisé dans le cadre du cours de gestion de contenu. Il a lieu au cinquième semestre, le mardi. Et ça s'annonce bien ! ",
+            "content_html": "<p>Ceci est un projet réalisé dans le cadre du cours de gestion de contenu.</p>\n<p>Il a lieu au cinquième semestre, le mardi. <strong>Et ça s'annonce bien !</strong></p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://est1102.github.io/super-fiesta/media/posts/1/20171023_174141.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://est1102.github.io/super-fiesta/media/posts/1/responsive/20171023_174141-xs.jpg 300w ,https://est1102.github.io/super-fiesta/media/posts/1/responsive/20171023_174141-sm.jpg 480w ,https://est1102.github.io/super-fiesta/media/posts/1/responsive/20171023_174141-md.jpg 768w ,https://est1102.github.io/super-fiesta/media/posts/1/responsive/20171023_174141-lg.jpg 1024w ,https://est1102.github.io/super-fiesta/media/posts/1/responsive/20171023_174141-xl.jpg 1360w ,https://est1102.github.io/super-fiesta/media/posts/1/responsive/20171023_174141-2xl.jpg 1600w\"  alt=\"C'est parti !\" width=\"660\" height=\"880\"></figure>\n<p> </p>",
+            "author": {
+                "name": "Estelle"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-25T16:50:19+02:00",
+            "date_modified": "2021-10-25T16:59:50+02:00"
+        }
+    ]
+}
